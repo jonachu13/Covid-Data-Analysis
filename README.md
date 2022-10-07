@@ -18,4 +18,4 @@ https://public.tableau.com/app/profile/jonathan.chu5508/viz/CovidAnalysisVisuali
 ### Conclusional Insights
 - Europe had the highest total deaths, second to North America. 
 - COVID has infected 611m people leading to 6m deaths globally
-- The global death percentage is 1.06%
+- The global death percentage caused by COVID is 1.06%
