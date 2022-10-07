@@ -12,6 +12,8 @@ Learning:
 - This project is designed to be an introduction to data analytics. I've chosen to practice a typical workflow that a data analyst would utilize on their day to day basis.
 	- Experience the 5 steps of data analysis from defining the project, collecting data, cleaning data, analyzing and interpreting results. 
 
+###Data Visualization
+https://public.tableau.com/app/profile/jonathan.chu5508/viz/CovidAnalysisVisualization/Dashboard1#2
 
 ### Conclusional Insights
 - Europe had the highest total deaths, second to North America. 
